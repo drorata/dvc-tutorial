@@ -1,0 +1,9 @@
+name: 2019-12-pyberlin-dvc
+channels:
+  - conda-forge
+dependencies:
+  - python=3.7
+  - jupyter
+  - ipython
+  - jupyter_contrib_nbextensions
+  - rise
